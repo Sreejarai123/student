@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## Sreeja's Page 2023-2024 
-This is about your journey. Start now!
+
 
 ## About Me
 Hi my name is Sreeja and I am a current junior at Del Norte High School
