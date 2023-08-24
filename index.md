@@ -9,7 +9,8 @@ title: Student Blog
 
 ## Free Form Image about me
 
-![]({{site.baseurl}}/images/IMG_4478.jpeg)
+
+<img src="https://github.com/Sreejarai123/Sreeja/assets/142522690/6804836b-c7c9-4397-be02-78e32833334a" width="300" height="400">
 
 ## About Me
 Hi my name is Sreeja and I am a current junior at Del Norte High School
