@@ -13,10 +13,13 @@ title: Student Blog
 -I like playing golf, ping pong, tennis and swimming
 
 
-<img src="https://github.com/Sreejarai123/Sreeja/assets/142522690/6804836b-c7c9-4397-be02-78e32833334a" width="100" height="200">
+ <img src="https://github.com/Sreejarai123/Sreeja/assets/142522690/6804836b-c7c9-4397-be02-78e32833334a" width="100" height="200">
 
 ## About Me
 - Hi my name is Sreeja Rai and I am a current Junior at Del Norte High school
+
+
+
 <img src="https://github.com/Sreejarai123/Sreeja/assets/142522690/85adc0f4-6c68-4495-b327-8f005efb5fe8" width="200" height="100">
 - I like going to concerts this past year I went to the Harry styles, The Weeknd, SZA, and Olivia rodrigo. I like going to the beach and hanging out with my friends. My favorite animal is a dog and I really want a mini golden doodle. I like playing tennis and am on the varsity team as well as the track team and I do dance outside of school. 
 
@@ -31,3 +34,8 @@ title: Student Blog
     - to fix this we rebooted the computer and cleaned up our vs code and it ended up working after that
 -Another issue was that my partner was on windows and I was using a mac which made it difficult for us to help each other but we became more familiar with each other's laptops.
 - BUT with an AGILE MINDSET and the idea that nothing is too difficult to achieve we persevered through all the issues we faced. 
+
+## Class Schedule:
+
+
+## Python Calculator:
