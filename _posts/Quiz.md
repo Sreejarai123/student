@@ -2,23 +2,41 @@
 layout: default
 title: Student Blog
 ---
-
-# Quiz: General Knowledge
-
+## Quiz about me
 ## Question 1
-What is the capital of France?
+What is the name of my partner?
 
-- [ ] a) Madrid
-- [x] b) Paris
-- [ ] c) Rome
-- [ ] d) Berlin
+A) Ellie
+B) Olivia
+C) Sreeja
+D) Nupur
 
----
+<details>
+<summary>Click to reveal the correct answer</summary>
+The correct answer is D) Nupur.
+</details>
 
 ## Question 2
-Which planet is known as the "Red Planet"?
+What is my favorite animal?
+A) dog
+B) panda
+C) monkey
+D) rat
 
-- [ ] a) Venus
-- [x] b) Mars
-- [ ] c) Jupiter
-- [ ] d) Saturn
+<details>
+<summary>Click to reveal the correct answer</summary>
+The correct answer is A) dog.
+</details>
+
+## Question 3
+What sports do I do
+
+A) Tennis
+B) Indian Dance
+C) Track and Field
+D) All of the above
+
+<details>
+<summary>Click to reveal the correct answer</summary>
+The correct answer is D) All of the above.
+</details>
